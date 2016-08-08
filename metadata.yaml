@@ -1,0 +1,27 @@
+_repo: Le-nabab-tome-I_12726
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12726'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- History -- 19th century -- Fiction'
+- GITenberg
+title: Le nabab, tome I
+url: http://www.gutenberg.org/ebooks/12726
