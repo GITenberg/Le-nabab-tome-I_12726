@@ -1,5 +1,8 @@
 _repo: Le-nabab-tome-I_12726
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Daudet, Alphonse
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12726#Le-nabab-tome-I
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
